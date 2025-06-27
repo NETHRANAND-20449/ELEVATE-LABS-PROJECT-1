@@ -22,7 +22,7 @@ A comprehensive vulnerability scanner that detects XSS, SQL Injection, CSRF, and
 ### Quick Setup
 ```bash
 # Clone or download the project
-git clone <your-repo-url>
+git clone https://github.com/NETHRANAND-20449/ELEVATE-LABS-PROJECT-1
 cd vulnerability_scanner
 
 # Install dependencies
